@@ -15,7 +15,7 @@ A simple car dodging game built using Pygame.
 1. Clone this repository:
    ```bash
    git clone https://github.com/danielvu04/pygame_car_game.git
-   cd pygame-car-game
+   cd pygame_car_game
    ```
 2. Install dependencies:
    ```bash
